@@ -2,8 +2,8 @@
 
 counter = 100          # An integer assignment
 miles   = 1000.0       # A floating point
-name    = "John Cena"       # A string
-name2  ="Abdul Rahiman"       # A string
+name    = "John Cena Change 4"       # A string
+name2  ="Abdul Rahiman change 4"       # A string
 
 print counter
 print miles
